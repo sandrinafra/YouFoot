@@ -1,3 +1,17 @@
-page-home {
+.weather-home {
+    background-image: url('../assets/images/jr.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    flex: 1;
+    flex-direction: column;
+}
 
+.stable {
+  color: white;
+  text-align: center;
+}
+
+.gris {
+  color: grey;
+  text-align: center;
 }
